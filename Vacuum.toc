@@ -1,0 +1,16 @@
+## Interface: 100205
+## Title: Vacuum
+## IconAtlas: callings-backhighlight-full
+## Notes: Provides various functionality for Quality of Life improvements
+## Author: Damien
+## Version: 0.1.0
+## SavedVariables: VacuumDB
+## SavedVariablesPerCharacter: VacuumDBChar
+
+
+libs\Libs.xml
+Skin\skin.xml
+Skin\Interface\FrameXML\FrameXML.xml
+Skin\Interface\AddOns\AddOns.xml
+
+MiscQOL.lua
